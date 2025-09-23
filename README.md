@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Giovanni
+# 👋 ¡Bienvenido! mi nombre es Giovanni
 
 Desarrollador junior apasionado por la tecnología, la música y la creación de soluciones digitales.  
 Aquí puedes ver algunos de mis proyectos destacados:

@@ -30,7 +30,7 @@ Sitio web moderno y dinámico para mostrar lanzamientos musicales de King Land.
 
 ---
 
-### [Mini Pokédex Web](https://github.com/giobok10/pokedex-examen)
+### [Mini Pokédex Web](https://github.com/giobok10/mini-pokedex-web)
 Aplicación web interactiva que consume la PokéAPI para buscar Pokémon, ver sus detalles y guardar una lista de favoritos.
 **Tecnologías:** HTML, CSS, JavaScript (ES6+), LocalStorage
 

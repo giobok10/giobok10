@@ -53,6 +53,19 @@ Proyecto de maquetación web de una tienda de tecnología ficticia, creado con H
 
 ---
 
+---
+
+### [Frontend-Restaurante-Maqueta](https://github.com/giobok10/Frontend-Restaurante-Maqueta)
+Maquetación web para un restaurante ficticio, creada con HTML, CSS y JavaScript para demostrar la construcción de una interfaz de usuario moderna y responsiva.
+**Tecnologías:** HTML, CSS, JavaScript
+
+**Características:**
+*   Diseño responsivo adaptable a computadoras, tabletas y dispositivos móviles.
+*   Interfaz limpia y atractiva para la visualización del menú.
+*   Estructura de CSS modular que facilita su mantenimiento y escalabilidad.
+
+---
+
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/guillermo-giovanni-mendez-boj-1b596932a/)
 - Email: giovannibok12@gmail.com

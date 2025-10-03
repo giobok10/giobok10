@@ -30,6 +30,18 @@ Sitio web moderno y dinámico para mostrar lanzamientos musicales de King Land.
 
 ---
 
+### [Mini Pokédex Web](https://github.com/giobok10/pokedex-examen)
+Aplicación web interactiva que consume la PokéAPI para buscar Pokémon, ver sus detalles y guardar una lista de favoritos.
+**Tecnologías:** HTML, CSS, JavaScript (ES6+), LocalStorage
+
+**Características:**
+*   Búsqueda de Pokémon por nombre o ID.
+*   Manipulación dinámica del DOM para renderizar la información.
+*   Sistema de favoritos con persistencia de datos en `localStorage`.
+*   Diseño responsivo para dispositivos móviles y de escritorio.
+
+---
+
 ### [TechStore - Maquetación Web](https://github.com/giobok10/TechStore-Maquetacion-Web)
 Proyecto de maquetación web de una tienda de tecnología ficticia, creado con HTML, CSS y JavaScript.
 **Tecnologías:** HTML, CSS, JavaScript

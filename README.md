@@ -5,15 +5,20 @@ Aquí puedes ver algunos de mis proyectos destacados:
 ---
 ## 🚀 Proyectos Destacados
 
-### [Sistema de Gestión de Restaurante (m-s-system)](https://github.com/giobok10/m-s-system)
-Sistema web para la gestión de restaurantes, con administración de menú, usuarios, reportes y cierre de caja.
-**Tecnologías:** Python, Flask, Supabase, HTML, CSS, JavaScript
+### [FastSmart POS – Sistema de Punto de Venta](https://github.com/giobok10/fastsmart-pos)
+Sistema de punto de venta (POS) moderno para restaurantes de comida rápida, con módulos completos para administración, meseros y cocina, sincronización en tiempo real y despliegue en producción.  
+**URL:** https://fastsmart-pos.vercel.app  
+**Tecnologías:** React, TypeScript, Vite, TailwindCSS, Bun, Supabase, Vercel
 
 **Características:**
-*   Gestión de roles (admin, mesero, cocinero)
-*   Control de inventario y ventas
-*   Reportes diarios y cierre de caja
-*   Interfaz responsiva y amigable
+*   Autenticación con roles (Admin, Mesero, Cocina)
+*   Gestión de menú y categorías
+*   Toma de pedidos en tiempo real
+*   Vista Kanban para cocina
+*   Tickets con cálculo de cambio
+*   Reportes y cierre de caja en PDF
+*   Sincronización en tiempo real con Supabase
+*   Zona horaria configurada para Guatemala (GMT-6)
 
 ---
 

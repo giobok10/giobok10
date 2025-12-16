@@ -7,7 +7,6 @@ Aquí puedes ver algunos de mis proyectos destacados:
 
 ### [FastSmart POS – Sistema de Punto de Venta](https://github.com/giobok10/fastsmart-pos)
 Sistema de punto de venta (POS) moderno para restaurantes de comida rápida, con módulos completos para administración, meseros y cocina, sincronización en tiempo real y despliegue en producción.  
-**URL:** https://fastsmart-pos.vercel.app  
 **Tecnologías:** React, TypeScript, Vite, TailwindCSS, Bun, Supabase, Vercel
 
 **Características:**
